@@ -18,7 +18,7 @@
 - Lasso/Ridge Regression
 - Decision Tree (etc...)
 - Random Forest Regressor 
-- XgBoost Regressor 
+- XgBoost Regressor (idealy this should be the best performer)
 #### 2) Collaborative Filtering 
 - Recommendation system 
 #### 3) Cosine Similarities Analysis 
