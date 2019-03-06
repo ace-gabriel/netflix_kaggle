@@ -25,8 +25,8 @@
 - Rating prediction based on cosine similarities 
 ### Stage III: Deployment 
 - Spark/MapReduce procedure 
-
 ### Stage IV: Optimization 
 - Try different methods 
-
 ### Stage V: Project Website & Report 
+- Full stack website with front-end and back-end database 
+- Support real-time big data analysis 
