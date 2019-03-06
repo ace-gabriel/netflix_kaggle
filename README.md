@@ -8,6 +8,11 @@
 - Load: Upload on AWS/Azure/Google Cloud in a querable format
 
 ### Stage II: Methods
+#### 0) Data Preprocessing 
+- N/A values handling (LR fill, intropolate, median, mean, 0, etc)
+- feature engineering/feature selection
+- PCA if necessary 
+- outlier removal (based on IQR or customerized based on ML models)
 #### 1) Machine Learning Methods 
 - K-means
 - Lasso/Ridge Regression
@@ -15,9 +20,13 @@
 - Random Forest Regressor 
 - XgBoost Regressor 
 #### 2) Collaborative Filtering 
+- Recommendation system 
 #### 3) Cosine Similarities Analysis 
-
+- Rating prediction based on cosine similarities 
 ### Stage III: Deployment 
-- Spark/MapReduce 
+- Spark/MapReduce procedure 
 
 ### Stage IV: Optimization 
+- Try different methods 
+
+### Stage V: Project Website & Report 
